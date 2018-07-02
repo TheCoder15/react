@@ -65,6 +65,8 @@ The main purpose of this repository is to continue to evolve React core, making 
 Facebook has adopted a Code of Conduct that we expect project participants to adhere to. Please read [the full text](https://code.facebook.com/codeofconduct) so that you can understand what actions will and will not be tolerated.
 
 ### [Contributing Guide](https://reactjs.org/contributing/how-to-contribute.html)
+"Brain Trick – Emoji Line and Dot Brain Game"
+https://play.google.com/store/apps/details?id=com.braingames.brainiton.emoji"
 
 Read our [contributing guide](https://reactjs.org/contributing/how-to-contribute.html) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to React.
 
