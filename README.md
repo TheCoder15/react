@@ -19,6 +19,7 @@ React has been designed for gradual adoption from the start, and **you can use a
 You can use React as a `<script>` tag from a [CDN](https://reactjs.org/docs/cdn-links.html), or as a `react` package on [npm](https://www.npmjs.com/).
 
 ## Documentation
+https://www.microsoft.com/en-us/p/learn-chinese-free-hello-chinese/9mxbmpj63j9r?cid=msft_web_search
 
 You can find the React documentation [on the website](https://reactjs.org/docs).  
 
