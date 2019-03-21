@@ -33,6 +33,14 @@ The documentation is divided into several sections:
 
 * [Tutorial](https://reactjs.org/tutorial/tutorial.html)
 * [Main Concepts](https://reactjs.org/docs/hello-world.html)
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
 * [Advanced Guides](https://reactjs.org/docs/jsx-in-depth.html)
 * [API Reference](https://reactjs.org/docs/react-api.html)
 * [Where to Get Support](https://reactjs.org/community/support.html)
@@ -72,6 +80,13 @@ Facebook has adopted a Code of Conduct that we expect project participants to ad
 
 ### [Contributing Guide](https://reactjs.org/contributing/how-to-contribute.html)
 "Brain Trick – Emoji Line and Dot Brain Game"
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
+https://santedos.com/liberez-vos-tensions-apprenez-a-vous-detendre/
 https://play.google.com/store/apps/details?id=com.braingames.brainiton.emoji"
 
 Read our [contributing guide](https://reactjs.org/contributing/how-to-contribute.html) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to React.
